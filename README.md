@@ -1,2 +1,2 @@
-This is ReadMe for the trucker
--Sandesha Shetty
+This is ReadMe file for the trucker
+Fleet Management IOT Api
